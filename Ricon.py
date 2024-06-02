@@ -190,8 +190,6 @@ def regex(input):
     except:
         pass
 
-  
-
 depth()
 
 file = open("report.txt", 'a')
