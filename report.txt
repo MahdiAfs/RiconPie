@@ -1,0 +1,169 @@
+
+subdomain https://google.com: 
+ ['www.google.com : 216.239.38.120', 'mail.google.com : 142.250.181.133', 'image.google.com : 172.217.19.174', 'blog.google.com : 172.217.19.233', 'ns1.google.com : 216.239.32.10', 'smtp.google.com : 64.233.167.27', 'smtp.google.com : 64.233.167.26', 'smtp.google.com : 64.233.166.26', 'smtp.google.com : 64.233.166.27', 'smtp.google.com : 74.125.206.27', 'ns.google.com : 216.239.32.10']
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443]
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google
+title https://google.com : Google
+regEx https://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None] 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+subdomain https://google.com: 
+ [None]
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443]
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google
+title https://google.com : Google
+regEx https://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], []) 	 
+ip and open port https://google.com : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://google.com :('Success', ':', 200) 
+ Google 	 
+titlehttps://google.com : Google 	 
+regExhttps://google.com : ([], [])
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443]
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images
+title https://www.google.com/imghp?hl=en&tab=wi : Google Images
+regEx https://www.google.com/imghp?hl=en&tab=wi : ([], []) 	 
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images 	 
+titlehttps://www.google.com/imghp?hl=en&tab=wi : Google Images 	 
+regExhttps://www.google.com/imghp?hl=en&tab=wi : ([], []) 	 
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images 	 
+titlehttps://www.google.com/imghp?hl=en&tab=wi : Google Images 	 
+regExhttps://www.google.com/imghp?hl=en&tab=wi : ([], []) 	 
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images 	 
+titlehttps://www.google.com/imghp?hl=en&tab=wi : Google Images 	 
+regExhttps://www.google.com/imghp?hl=en&tab=wi : ([], []) 	 
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images 	 
+titlehttps://www.google.com/imghp?hl=en&tab=wi : Google Images 	 
+regExhttps://www.google.com/imghp?hl=en&tab=wi : ([], []) 	 
+ip and open port https://www.google.com/imghp?hl=en&tab=wi : 
+ 216.239.38.120 : [80, 443] 	 
+statuscodhttps://www.google.com/imghp?hl=en&tab=wi :('Success', ':', 200) 
+ Google Images 	 
+titlehttps://www.google.com/imghp?hl=en&tab=wi : Google Images 	 
+regExhttps://www.google.com/imghp?hl=en&tab=wi : ([], [])
